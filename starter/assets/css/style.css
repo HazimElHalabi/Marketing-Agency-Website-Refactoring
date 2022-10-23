@@ -62,13 +62,14 @@ p {
     float: right;
     margin-left: 25px;
 }
-/* content updated to section*/
+/* content class updated to section*/
 section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-.benefits {
+/* benefits class updated to aside*/
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
