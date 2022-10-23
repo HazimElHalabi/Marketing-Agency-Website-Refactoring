@@ -79,37 +79,21 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-.benefit-lead {
+/*benefits class updated and reduced repitition*/
+.benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
+/*benefits class updated and reduced repitition*/
+.benefits img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
 /*h3 updated slimmed down*/
 h3 {
     margin-bottom: 10px;
     text-align: center;
-}
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
 }
 .search-engine-optimization {
     margin-bottom: 20px;
