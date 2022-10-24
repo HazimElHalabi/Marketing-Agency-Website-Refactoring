@@ -8,7 +8,7 @@ HTML and CSS codes have been updated to imporve the website's functionality and 
 
 ## Screenshot
 
-![alt text](assets/images/screenshot.png)
+![alt text](./assets/images/screenshot.png)
 
 ## Link 
 
