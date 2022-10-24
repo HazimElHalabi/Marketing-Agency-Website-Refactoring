@@ -8,7 +8,7 @@ HTML and CSS codes have been updated to imporve the website's functionality and 
 
 ## Screenshot
 
-![alt text](./assets/images/screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/114302485/197515281-22b9b566-2b4d-40ad-b76b-4b8890039be8.png)
 
 ## Link 
 
