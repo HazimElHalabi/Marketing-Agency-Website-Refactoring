@@ -4,7 +4,7 @@
 
 Refactoring the HTML and CSS code of a Digital Marketing Agency website to make it more accessible for people with disabilities.
 
-HTML and CSS codes have been updated to imporve the website's functionality and make it more efficient. 
+HTML and CSS codes have been updated to imporve the website's functionality and make it more efficient..
 
 ## Screenshot
 
